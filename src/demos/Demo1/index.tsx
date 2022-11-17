@@ -1,9 +1,10 @@
 import React from 'react';
+
 import Demo from '../demos.interface';
 import image from './demo1-image.png';
 
 const Demo1: React.FC = () => {
-  return <div />;
+  return <div>demo1</div>;
 };
 
 export const Demo1MetaData: Demo = {

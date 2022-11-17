@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import DemoList from '../components/ListDemos';
+import DemoList from '../components/DemoList';
 import demos from '../demos';
 
 const Container = styled.main`
