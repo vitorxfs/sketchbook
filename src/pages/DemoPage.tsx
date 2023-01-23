@@ -19,7 +19,11 @@ const DemoPage: React.FC = () => {
     console.log(slug);
   }, [slug]);
 
-  return <Container>{demo ? demo.component : '404 not found'}</Container>;
+  return (
+    <>
+      <Container>{demo ? demo.component : '404 not found'}</Container>
+    </>
+  );
 };
 
 export default DemoPage;

@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <GlobalStyles />
-      <Routes router={router} />;
+      <Routes router={router} />
     </>
   );
 }

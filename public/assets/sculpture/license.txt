@@ -1,0 +1,11 @@
+Model Information:
+* title:	La Renommée - Louvre Museum (Low Definition)
+* source:	https://sketchfab.com/3d-models/la-renommee-louvre-museum-low-definition-556f5c7010844d8ea7b5bc16feb59d08
+* author:	Benjamin Bardou (https://sketchfab.com/meryon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "La Renommée - Louvre Museum (Low Definition)" (https://sketchfab.com/3d-models/la-renommee-louvre-museum-low-definition-556f5c7010844d8ea7b5bc16feb59d08) by Benjamin Bardou (https://sketchfab.com/meryon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
